@@ -7,8 +7,8 @@ Results-oriented and innovative Senior Software Engineer with over 6 years of ex
 ## Skills
 
 
-| react | typescript | nodejs | docker | Kubernetes | Amazon Web Services (AWS) | Serverless |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| react | typescript | nodejs | docker | Kubernetes | Amazon Web Services (AWS) | Serverless |  Bash | Git |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
 
 
