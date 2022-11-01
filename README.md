@@ -34,4 +34,14 @@ Results-oriented and innovative Senior Software Engineer with over 6 years of ex
 **Elephant Ventures LLC**  
 <sub>December 2016 - December 2017<sub>
 <hr>
+  
+### Software Engineer / Founding Team
+**Reserve**  
+<sub>June 2014 - July 2015<sub>
+<hr>
+  
+### Senior Interface Developer
+**Jackthreads | Thrillist**  
+<sub>May 2012 - June 2014<sub>
+<hr>
 
