@@ -7,7 +7,7 @@ Results-oriented and innovative Senior Software Engineer and CAL (Certified Agil
 ## Skills
 
 
-| React | Typescript | Nodejs | Docker | Kubernetes | Amazon Web Services (AWS) | Serverless |  Bash | Git | Agile |
+| React | Typescript | Nodejs | Docker | Kubernetes | AWS | Serverless |  Bash | Git | Agile |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
 
